@@ -1,6 +1,6 @@
-# Mock_AI 🎤🤖
+# AI Mock-Interview 🎤🤖
 
-Mock_AI is an AI-powered mock interview platform that simulates real-world interview experiences. It helps job seekers prepare confidently by generating questions based on job roles and analyzing user responses for improvement.
+AI Mock-Interview is an AI-powered mock interview platform that simulates real-world interview experiences. It helps job seekers prepare confidently by generating questions based on job roles and analyzing user responses for improvement.
 
 ## 🔥 Live Demo
 
@@ -29,8 +29,6 @@ cd Mock_AI
 pnpm install
 pnpm dev
 ```
-
-Visit `http://localhost:5173` to view it in your browser.
 
 ---
 
@@ -66,35 +64,6 @@ firebase deploy
 
 ---
 
-## 📁 Project Structure
-
-```
-Mock_AI/
-├── public/         # Static assets
-├── src/
-│   ├── components/ # Reusable UI components
-│   ├── pages/      # Main pages/screens
-│   ├── App.tsx     # App root
-│   └── main.tsx    # Entry point
-├── tailwind.config.ts
-├── index.html
-├── vite.config.ts
-└── pnpm-lock.yaml
-```
-
----
-
-## 📜 Scripts
-
-| Command           | Description                      |
-|------------------|----------------------------------|
-| `pnpm dev`       | Start local dev server           |
-| `pnpm build`     | Build the app for production     |
-| `pnpm preview`   | Preview the production build     |
-| `pnpm lint`      | Run ESLint checks                |
-
----
-
 ## 🤝 Contributing
 
 1. Fork the repo
@@ -104,8 +73,3 @@ Mock_AI/
 5. Open a Pull Request 🚀
 
 ---
-
-## 🪪 License
-
-This project is licensed under the MIT License.
-
